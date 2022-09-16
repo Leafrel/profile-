@@ -3,7 +3,7 @@ Profile
 ### ✌️ Hello/Howdy, my name is Leafrel' and I make bots on discord
 
 ---
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dxxm6xmXeT)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tWTF4wTRMF)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCkYKuIVDZPYQbxIFQ-uAGlA)
 
 
